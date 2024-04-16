@@ -3,7 +3,7 @@ name: QGIS ltr nightly
 on: workflow_dispatch
 #  schedule:
 #  - cron: '2 0 * * * *'
-#
+
 #  push:
 #    branches:
 #    - workflows
